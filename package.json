@@ -1,0 +1,12 @@
+{
+  "name": "figma-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
